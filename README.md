@@ -7,9 +7,11 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   </div>
-  /n
   <div id="gif" align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300"/>
+  
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=orange" alt="views count"/>
+  
   </div>
 <!--
 **pdrzxzz/pdrzxzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
