@@ -11,6 +11,8 @@
   </div>
   
   Hi there, i am Emanuel Pedroza, brazilian, and a computer science student at Federal University of Pernambuco <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30"/>
+  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
 <!--
 **pdrzxzz/pdrzxzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
