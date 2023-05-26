@@ -1,4 +1,3 @@
-### Hi there, i am Emanuel Pedroza, brazilian, and a computer science student at Federal University of Pernambuco
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/emanuel-pedroza/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -10,9 +9,8 @@
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=pdrzxzz&style=flat-square&color=orange" alt="views count"/>
   </div>
-  <div id="gif" align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300"/>
-  </div>
+  
+  Hi there, i am Emanuel Pedroza, brazilian, and a computer science student at Federal University of Pernambuco <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="30"/>
 <!--
 **pdrzxzz/pdrzxzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
