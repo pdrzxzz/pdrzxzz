@@ -1,6 +1,6 @@
 ### Hi there, i am Emanuel Pedroza, brazilian, and a computer science student at Federal University of Pernambuco
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/emanuel-pedroza">
+  <a href="https://www.linkedin.com/in/emanuel-pedroza/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCq5uFHwWjE3tyWRorFXpNkQ">
