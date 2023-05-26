@@ -1,14 +1,14 @@
 ### Hi there, i am Emanuel Pedroza, brazilian, and a computer science student at Federal University of Pernambuco
-<div id="badges">
+<div id="badges" align="center">
   <a href="www.linkedin.com/in/emanuel-pedroza">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCq5uFHwWjE3tyWRorFXpNkQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-
   </div>
-  <div align="center">
+  /n
+  <div id="gif" align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300"/>
   </div>
 <!--
