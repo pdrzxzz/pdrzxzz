@@ -10,7 +10,8 @@
     <img src="https://komarev.com/ghpvc/?username=pdrzxzz&style=flat-square&color=orange" alt="views count"/>
   </div>
   
-  Hi there, i am Emanuel Pedroza, brazilian, and a computer science student at Federal University of Pernambuco <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGI2MzgxZWU5OTRlNmY4MGRjNDNmODQwYmRmMzVmZGY4ZGNkYTUyMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/eHjrC6X9zDIMI0alnP/giphy.gif" width="30"/>
+  Hi there, i am Emanuel Pedroza, brazilian, and a computer science student at Federal University of Pernambuco <div style= "display: inline-block"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGI2MzgxZWU5OTRlNmY4MGRjNDNmODQwYmRmMzVmZGY4ZGNkYTUyMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/eHjrC6X9zDIMI0alnP/giphy.gif" width="30"/>
+  </div>
 
 https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif
 <!--
