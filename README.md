@@ -1,8 +1,8 @@
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/emanuel-pedroza/">
+  <a href="https://www.linkedin.com/in/emanuel-pedroza/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCq5uFHwWjE3tyWRorFXpNkQ">
+  <a href="https://www.youtube.com/channel/UCq5uFHwWjE3tyWRorFXpNkQ target="_blank">
     <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   </div>
