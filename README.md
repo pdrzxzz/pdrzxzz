@@ -3,8 +3,7 @@
   Hi there, My name's Emanuel Pedroza, a 17 years old brazilian.
   
   - Computer science student at Federal University of Pernambuco.
-  - Currently studying web development and english.
-  - Hobbies: volley, guitar, gym, chess, animes, etc.
+  - Currently studying web development.
   
 ---
 ### ◽ Languages and Tools :
