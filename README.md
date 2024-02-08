@@ -2,7 +2,7 @@
 ###  ◽ About Me :
   Hi there, My name's Emanuel Pedroza, a 17 years old brazilian.
   
-  - Computer science student at Federal University of Pernambuco.
+  - 1st year Computer science student at Federal University of Pernambuco (UFPE).
 
   
 ---
