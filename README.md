@@ -14,6 +14,7 @@ What i know a bit:
   What i know:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C plus plus" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="C++" alt="C plus plus" width="40" height="40"/>
   
 ---  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdrzxzz&show_icons=true&theme=swift&hide_border=true&count_private=true&include_all_commits=true&title_color=ffffff&text_color=ffffff&bg_color=00000000&icon_color=fff)](https://github.com/pdrzxzz/github-readme-stats) <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pdrzxzz&show_icons=true&theme=swift&hide_border=true&count_private=true&include_all_commits=true&title_color=ffffff&text_color=ffffff&bg_color=00000000&icon_color=fff"/>
