@@ -6,4 +6,4 @@
 
 - I focus on **Investigative Data Science**, blending statistics, logic, and curiosity to explore real-world problems with depth and clarity.
 
-📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/seu-usuario)  
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/emanuel-pedroza/)
